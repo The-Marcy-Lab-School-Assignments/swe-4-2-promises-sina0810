@@ -58,12 +58,12 @@
   "testScores": {
     "Modify Tests": {
       "MoTe1": 1,
-      "MoTe2": 0,
-      "MoTe3": 0,
+      "MoTe2": 1,
+      "MoTe3": 1,
       "MoTe4": 1,
-      "MoTe5": 0,
-      "MoTe6": 0,
-      "MoTe7": 0,
+      "MoTe5": 1,
+      "MoTe6": 1,
+      "MoTe7": 1,
       "MoTe8": 0
     },
     "From Scratch Tests": {
@@ -75,14 +75,14 @@
       "FrScTe6": 1,
       "FrScTe7": 1,
       "FrScTe8": 1,
-      "FrScTe9": 0,
+      "FrScTe9": 1,
       "FrScTe10": 1,
-      "FrScTe11": 0
+      "FrScTe11": 1
     }
   },
   "humanReadable": {
-    "Modify Tests": "2/8",
-    "finalTestScore": "FINAL SCORE: 11/19",
-    "From Scratch Tests": "9/11"
+    "Modify Tests": "7/8",
+    "finalTestScore": "FINAL SCORE: 18/19",
+    "From Scratch Tests": "11/11"
   }
 }

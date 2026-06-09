@@ -34,10 +34,10 @@ const handleResolvedOrRejectedPromise = (promise) => {
  
 
 const pauseForMs = (ms) => {
-  const promise = new Promise((resolve) => {
-      setTimeout(() => {
-      promise.resolve('Hello')
-    }, 100)
+  return new Promise((resolve) => {
+    setTimeout(() => {
+      resolve()
+    }, ms)
   })
 }
   
